@@ -26,4 +26,4 @@
 - LinkedIn: [Lucas Schwanke](https://www.linkedin.com/in/lucas-schwanke-973155286/)  
 - Email: lucas.schwanke.750@gmail.com
 
-✨ Fun fact: I love **basketball**, because it allows me to **disconnect from the real world and reflect**.
+✨ Fun fact: I love **basketball**, as it helps me **unwind and clear my mind**.
