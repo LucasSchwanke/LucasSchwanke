@@ -1,9 +1,10 @@
 ## Hey there, I'm Lucas 👋
 
-⏳ **19y**
+🇧🇷 **From Brazil**  
 🎓 **Computer Science Student @ FURB**  
 🏭 Working at **Altona**, turning ideas into **industrial innovation**  
-💡 Passionate about **Python, automation, and solving real-world problems**
+💡 Passionate about **Python, automation, and solving real-world problems**  
+⏳ **19y**
 
 ---
 
