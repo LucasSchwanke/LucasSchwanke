@@ -1,5 +1,6 @@
 ## Hey there, I'm Lucas 👋
 
+⏳ **19y**
 🎓 **Computer Science Student @ FURB**  
 🏭 Working at **Altona**, turning ideas into **industrial innovation**  
 💡 Passionate about **Python, automation, and solving real-world problems**
